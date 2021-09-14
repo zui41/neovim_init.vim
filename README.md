@@ -1,1 +1,4 @@
 Setting of neovim
+
+
+`:PluginInstall`
